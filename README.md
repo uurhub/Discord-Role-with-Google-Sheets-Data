@@ -1,5 +1,5 @@
 # Discord-Role-with-Google-Sheets-Data
- <p> This discord bot gives a role of who exists in the Google Sheets.</p>
+ <p align = "center"> This discord bot gives a role of who exists in the Google Sheets.</p>
  
  
 ![botest test](https://user-images.githubusercontent.com/70581331/183676543-b2c2d8db-da41-479f-b2c2-b9212cfc30d8.png)
